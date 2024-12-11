@@ -1,0 +1,45 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+.sidebar {
+  min-height: 927px;
+}
+
+.createpost {
+  width: 80%;
+  margin: 3% 0 0 10%;
+}
+
+.postlist {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 21px 0px;
+}
+
+.post-card {
+  margin: 20px 15px;
+  min-width: 25rem !important;
+}
+
+.hashtag {
+  margin: 0px 3px;
+}
+
+svg.delete {
+  height: 1.5em;
+  width: 1.5em;
+  cursor: pointer;
+}
+
+.WelcomeMessage {
+  margin: 60px 0px;
+}
+
+.spinner {
+  margin: 100px 0px;
+}
